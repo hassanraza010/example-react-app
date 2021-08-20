@@ -35,4 +35,7 @@
       "last 1 safari version"
     ]
   }
+   "devDependencies": {
+    "sonarqube-scanner": "^2.8.1"
+  }
 }
