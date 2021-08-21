@@ -2,7 +2,7 @@ const scanner = require('sonarqube-scanner');
 scanner(
     {
         serverUrl: "https://9a4715a9dadd.ngrok.io",
-        token: "90b039427b8023003b8eead81ad2f73bb0a15c2b",
+        token: "6a5e8a9fe4bf0fc4d0fa0da49670d3f68ff90503",
         options: {
             "sonar.sources": "./src"
         },
